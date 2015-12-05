@@ -1,0 +1,9 @@
+Package: ZakMonitoR
+Type: Package
+Title: Connect to zakonodajni monitor API (http://www.zakonodajni-monitor.si/api).
+Version: 0.1.0
+Author: Crt Ahlin
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+LazyData: TRUE
